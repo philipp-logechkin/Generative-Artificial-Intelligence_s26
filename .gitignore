@@ -1,0 +1,8 @@
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+# Local chat persistence (single-user)
+data/
